@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wHsCbUGS+ls=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jlgpl\\source\\repos\\Trabalho CRUD\\ApiProdutos\\ApiProdutos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jlgpl\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\jlgpl\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
